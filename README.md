@@ -1,4 +1,4 @@
-# ass3-f20
+# asst3-f20
 
 You are responsible for creating the following files:
 
